@@ -28,6 +28,7 @@ public class demo2 {
 			//System.out.println(URL);
 			//driver.get(URL);
 			System.out.print("welcome2");
+			System.out.println("correct");
 		}
 			
 		
